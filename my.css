@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+#timer {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+#answer {
+  padding: 8px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#submit {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+}
+
+#start {
+  background-color: #008CBA;
+  color: white;
+  border: none;
+}
+
+#result {
+  margin-top: 20px;
+}
+
